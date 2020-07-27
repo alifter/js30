@@ -1,0 +1,1 @@
+These are short javascript projects I completed from the site javascript30.com, with some personal elements added!
